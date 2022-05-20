@@ -44,3 +44,11 @@ body {
         width: 100%;
     }
 }
+
+footer {
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+    margin-top: 8px;
+    padding: 16px;
+}
